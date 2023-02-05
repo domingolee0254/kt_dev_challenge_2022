@@ -163,5 +163,5 @@ image_name,label
 
 ### Visualing Results
 | Original Image | Gradcam Cam Image of Classfier Head | Guided Backpropagation Image of Classfier Head |
-| ---------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------|
+| ---------------|-------------------------------------|------------------------------------------------|
  <img src="./img/A240228XX_14949_0.jpg" width="256" height="256"> | <img src="./img/gradcam_cam_conv_head_kd_method6.jpg" width="256" height="256"> | <img src="./img/gradcam_gb_conv_head_kd_method6.jpg" width="256" height="256"> |
