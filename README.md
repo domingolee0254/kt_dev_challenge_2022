@@ -160,3 +160,8 @@ image_name,label
 | --mode          | str   | 인퍼런스 모드 ['no_label', 'with_label'] | 'no_label'            |
 | --save_dir      | str   | 산출물 파일 저장 경로                | /home/work/team01/food-kt/submissions        |
 | --csv_name      | str   | submission csv 파일 이름               | 'test                 |
+
+### Visualing Results
+| Original Image | Gradcam Cam Image of Classfier Head | Guided Backpropagation Image of Classfier Head |
+| ---------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------|
+ <img src="./img/A240228XX_14949_0" width="256" height="256"> | <img src="./img/gradcam_cam_conv_head_kd_method6.jpg" width="256" height="256"> | <img src="./gradcam_gb_conv_head_kd_method6" width="256" height="256"> |
