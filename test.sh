@@ -1,0 +1,1 @@
+python code/inference.py --mode 'with_label' --test_data_dir '/home/work/team01/food-kt/data/test'
